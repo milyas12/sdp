@@ -48,6 +48,7 @@ python manage.py runserver
 
 ## Dataset
 This project uses the HAM10000 dataset, which contains 10015 dermatoscopic images of pigmented skin lesions. The dataset consists of 7 different categories of skin diseases: melanoma, nevus, seborrheic keratosis, basal cell carcinoma, actinic keratosis, benign keratosis, and dermatofibroma.
+This site using dataset from [kaggle ](https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000)
 
 ## Model
 This project uses a convolutional neural network (CNN) to classify skin lesion images. The CNN has the following architecture:
